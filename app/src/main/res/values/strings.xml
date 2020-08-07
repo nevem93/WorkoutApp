@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WorkoutApp</string>
+    <string name="str_start">Start</string>
+    <string name="image">Exercise image</string>
+    <string name="upcoming_exercise">UPCOMING EXERCISE :</string>
+    <string name="upcoming_exercise_name">UPCOMING EXERCISE NAME</string>
+    <string name="endtext">END</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="finish_workout">You have finished the workout!</string>
+    <string name="finish">FINISH</string>
+    <string name="calculator">Calculator</string>
+    <string name="history">History</string>
+    <string name="exrecise_completed">EXERCISE COMPLETED</string>
+    <string name="no_data_available">NO DATA AVAILABLE</string>
+
+</resources>
